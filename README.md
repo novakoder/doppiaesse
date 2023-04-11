@@ -1,3 +1,7 @@
+indie netrunner - lvl 20 🧑🏻‍💻
+sharing my tech journey - ideas - projects 🔮
+ready to build in public ⚡
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/simone-salerno/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
