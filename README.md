@@ -1,6 +1,6 @@
-indie netrunner - lvl 20 🧑🏻‍💻
-sharing my tech journey - ideas - projects 🔮
-ready to build in public ⚡
+indie netrunner - lvl 20 🧑🏻‍💻<br>
+sharing my tech journey - ideas - projects 🔮<br>
+ready to build in public ⚡<br>
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/simone-salerno/" target="_blank">
