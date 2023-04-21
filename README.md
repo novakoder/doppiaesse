@@ -1,4 +1,4 @@
-<b>indie netrunner</b> • university student • lvl 20 🧑🏻‍💻<br>
+<b>indie netrunner</b> • university student 🧑🏻‍💻<br>
 sharing my tech journey • ideas • projects 🔮<br>
 <b>ready to build in public</b> ⚡<br><br>
 
