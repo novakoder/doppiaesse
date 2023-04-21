@@ -1,5 +1,5 @@
-<b>indie netrunner</b> - lvl 20 🧑🏻‍💻<br>
-sharing my tech journey - ideas - projects 🔮<br>
+<b>indie netrunner</b> • university student • lvl 20 🧑🏻‍💻<br>
+sharing my tech journey • ideas • projects 🔮<br>
 <b>ready to build in public</b> ⚡<br><br>
 
 <div id="badges">
