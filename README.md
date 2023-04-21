@@ -1,4 +1,4 @@
-<b>indie netrunner</b> • university student 🧑🏻‍💻<br>
+indie netrunner • university student 🧑🏻‍💻<br>
 sharing my tech journey • ideas • projects 🔮<br>
 <b>ready to build in public</b> ⚡<br><br>
 
