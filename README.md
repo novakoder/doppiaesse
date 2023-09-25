@@ -1,6 +1,5 @@
-indie netrunner • university student 🧑🏻‍💻<br>
-sharing my tech journey • ideas • projects 🔮<br>
-<b>ready to build in public</b> ⚡<br><br>
+Freelancer • software/web dev 🧑🏻‍💻<br>
+Sharing my tech journey • ideas • projects 🔮<br><br>
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/simone-salerno/" target="_blank">
